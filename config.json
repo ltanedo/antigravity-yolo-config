@@ -1,0 +1,31 @@
+{
+  "userSettings": {
+    "globalPermissionGrants": {
+      "allow": [
+        "read_file(C:\\)",
+        "write_file(C:\\)",
+        "read_file(D:\\)",
+        "write_file(D:\\)",
+        "command(*)",
+        "unsandboxed(*)",
+        "read_url(*)",
+        "execute_url(*)",
+        "mcp(*)",
+        "custom(*)",
+        "write_file(C:\\Users\\<your-username>\\.gemini\\antigravity\\mcp_config.json)",
+        "unsandboxed(powershell)",
+        "unsandboxed(bun --version)",
+        "unsandboxed(bun x)",
+        "read_file(C:\\Users\\<your-username>\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup)",
+        "write_file(C:\\Users\\<your-username>\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\FastToggle.ahk)",
+        "command(Start-Process)",
+        "command(Get-Process)",
+        "command(where.exe)",
+        "command(dir)",
+        "command(C:\\Users\\<your-username>\\AppData\\Local\\Microsoft\\WindowsApps\\AutoHotkey.exe)",
+        "read_url(registry.npmjs.org)",
+        "write_file(C:\\Users\\<your-username>\\AppData\\Local\\Temp\\get_times.js)"
+      ]
+    }
+  }
+}
